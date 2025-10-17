@@ -1,5 +1,3 @@
-# python-projects
-# Python project collections
 # Factorial Calculator in Python
 
 This simple Python program calculates the factorial of a given number entered by the user.  
